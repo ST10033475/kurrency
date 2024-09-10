@@ -8,7 +8,6 @@ import android.widget.EditText
 class MainActivity : AppCompatActivity() {
     private lateinit var ConvertButton : Button
 
-    private lateinit var Amt : EditText
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
