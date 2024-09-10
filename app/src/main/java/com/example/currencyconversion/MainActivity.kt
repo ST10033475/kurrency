@@ -20,5 +20,6 @@ class MainActivity : AppCompatActivity() {
             val InputCurrency = inputCurr.text.toString()
             val OutputCurrency = outputCurr.text.toString()
 
+
     }
 }}
